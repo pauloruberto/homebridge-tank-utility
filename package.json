@@ -1,17 +1,25 @@
 {
   "name": "homebridge-tank-utility",
-  "version": "0.0.1",
-  "description": "A plugin to view your propane level within HomeKit.",
+  "version": "1.0.0",
+  "description": "View your TankUtility propane level within HomeKit.",
+  "author": "Paulo Ruberto",
   "license": "ISC",
   "keywords": [
-    "homebridge-plugin"
+    "homebridge-plugin",
+    "homebridge",
+    "tankutility",
+    "tank-utility",
+    "propane"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/example/homebridge.git"
+    "url": "https://github.com/pauloruberto/homebridge-tank-utility"
   },
   "bugs": {
-    "url": "http://github.com/example/homebridge/issues"
+    "url": "https://github.com/pauloruberto/homebridge-tank-utility/issues"
+  },
+  "dependencies": {
+  "request": ">=2.85.0"
   },
   "engines": {
     "node": ">=0.12.0",
