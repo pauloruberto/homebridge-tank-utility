@@ -7,7 +7,7 @@ This plugin allows you to view your TankUtility propane level within HomeKit. Th
 Before installing homebridge-tank-utility, make sure that you have succesfully installed [Homebridge](https://github.com/nfarina/homebridge#installation).
 
 ## Installing
-Install this plugin by running: `npm install -g homebridge-tank-utility`
+`npm install -g homebridge-tank-utility`
 
 ## Updating
 `npm update -g homebridge-tank-utility`
