@@ -1,5 +1,7 @@
 # homebridge-tank-utility
 
+<img src="https://i.imgur.com/NoovT90.png" align="center" alt="Logos">
+
 This plugin allows you to view your TankUtility propane level within HomeKit. The level is exposed as a Humidity sensor, allowing you to view the percentage from 0-100.
 
 ## Prerequisites
